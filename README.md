@@ -12,12 +12,8 @@ Built during FED24 at Medieinstitutet, with emphasis on front-end development, U
 
 ## 📸 Screenshots
 
-### Landing Page
-![Landing page of Privacy Analyser](public/images/landing-page.png)
-
-### Privacy Analysis View
-![Privacy analysis view](public/images/Analys.png)
-
+![Landing page of Privacy Analyser](images/landing-page.png)
+![Privacy analysis view](images/Analys.png)
 ## 🛠️ Tech Stack
 
 **Frontend**
